@@ -6,14 +6,8 @@
 - 🎯 Focused on **fullstack development**.
 
 ## Technologies I Use
-- **Python**: Automation, app development, and custom scripts.
-- **HTML & CSS**: Building static websites, landing pages, and visual components.
 
-- <div>
-    <img align="center" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-    <img align="center" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-    <img align="center" width="35" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  </div>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=davicesarmorais&layout=compact&theme=dark)
 
 ##
 
