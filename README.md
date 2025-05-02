@@ -7,7 +7,7 @@
 ## 🚀 Tech Stack  
 
 <div>
-  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicesarm&layout=compact&theme=tokyonight&border_color=2f353d" alt="Top Languages">
+  <img height=170 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicesarm&layout=compact&langs_count=10&theme=tokyonight&border_color=2f353d" alt="Top Languages">
   <img height=170 src="https://github-readme-stats.vercel.app/api?username=davicesarm&show_icons=true&theme=tokyonight&border_color=2f353d" alt="Davi's GitHub stats"/>
 </div>
 <br>
