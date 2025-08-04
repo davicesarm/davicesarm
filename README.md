@@ -7,8 +7,8 @@
 ## 🚀 Tech Stack  
 
 <div>
-  <img height=200 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicesarm&layout=compact&langs_count=10&theme=tokyonight&border_color=2f353d" alt="Top Languages">
-  <img height=200 src="https://github-readme-stats.vercel.app/api?username=davicesarm&show_icons=true&theme=tokyonight&border_color=2f353d" alt="Davi's GitHub stats"/>
+  <img height=190 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davicesarm&layout=compact&langs_count=8&theme=tokyonight&border_color=2f353d&hide=ShaderLab,HLSL" alt="Top Languages">
+  <img height=190 src="https://github-readme-stats.vercel.app/api?username=davicesarm&show_icons=true&theme=tokyonight&border_color=2f353d" alt="Davi's GitHub stats"/>
 </div>
 <br>
 <img src="https://skillicons.dev/icons?i=python,java,cpp,ts,flask,fastapi,next,postgres,linux" alt="Tech Stack"/>
