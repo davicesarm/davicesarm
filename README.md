@@ -1,8 +1,8 @@
 # Hi! I'm Davi 👋
 
-💡 Passionate about <**fullstack development**/> and problem-solving<br>
-🎓 Internet Systems student at the **Federal Institute of Paraíba**<br>
-📖 Always exploring new technologies and improving my skills
+💡 A dedicated problem-solver who uses <**fullstack development**/> to build robust solutions.<br>
+🎓 Internet Systems student at the **Federal Institute of Paraíba**.<br>
+📖 Committed to continuous learning to tackle any challenge that comes my way.
 
 ## 🚀 Tech Stack  
 
