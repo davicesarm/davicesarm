@@ -1,7 +1,7 @@
 # Hi! I'm Davi 👋
 
 💡 A dedicated problem-solver who uses <**fullstack development**/> to build robust solutions.<br>
-🎓 Internet Systems student at the **Federal Institute of Paraíba**.<br>
+🎓 Software Engineering student at the **Federal Institute of Paraíba**.<br>
 📖 Committed to continuous learning to tackle any challenge that comes my way.
 
 ## 🚀 Tech Stack  
@@ -11,7 +11,7 @@
   <img height=190 src="https://github-readme-stats.vercel.app/api?username=davicesarm&show_icons=true&theme=tokyonight&border_color=2f353d" alt="Davi's GitHub stats"/>
 </div>
 <br>
-<img src="https://skillicons.dev/icons?i=python,java,cs,ts,spring,flask,fastapi,next,postgres,mongo,linux" alt="Tech Stack"/>
+<img src="https://skillicons.dev/icons?i=python,flask,java,spring,cs,unity,ts,next,postgres,mongo,docker,linux,arch" alt="Tech Stack"/>
 
 ## 🌍 Let's Connect!  
 I'm always open to learning, collaborating, and discussing tech. Feel free to reach out!
